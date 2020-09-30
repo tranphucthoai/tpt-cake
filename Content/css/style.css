@@ -112,6 +112,7 @@ z-index: 1;*/ }
 .box-text-collection { text-align: center; }
 .box-text-collection .h2-1 { color: #b20000; font-weight: bold; font-size: 1.8rem; }
 .box-text-collection .h2-2 { color: #ed3523; font-weight: bold; font-size: 1.8rem; padding: 15px 0; }
+.box-text-collection .devider { overflow: hidden; }
 .box-text-collection .devider hr { margin: 0 auto; height: 1.5px; width: 400px; background-color: rgba(255, 255, 255, 0.5); }
 
 .box-title-sec { position: relative; padding: 20px 0 40px 0; margin-bottom: 40px; }
