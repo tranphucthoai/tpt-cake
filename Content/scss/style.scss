@@ -831,7 +831,9 @@
                 p {
                     font-size: 1.1rem;
                     padding: 5px 0;
-                    letter-spacing: 0.6px;
+                    letter-spacing: 0.5px;
+                    font-weight: 500;
+                    line-height: 2rem;
                 }
             }
         }
@@ -904,7 +906,7 @@
 /*#region rating */
 .rating {
     &-bg {
-        background: url('../images/background/bg-1.jpg') repeat;
+        background: url('../images/background/bg-1.jpg') repeat center;
         background-size: cover;
 
         &-content {
